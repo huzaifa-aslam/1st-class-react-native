@@ -1,0 +1,9 @@
+https://docs.expo.io/ // document link
+
+install expo cli //  npm install --global expo-cli
+
+create ur project //expo init my-project<project name>
+
+connect ur mobile with laptop of PC thorgh data cable
+
+start project // npm start OR expo start
