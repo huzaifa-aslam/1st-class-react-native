@@ -1,9 +1,11 @@
 https://docs.expo.io/ // document link
 
-install expo cli //  npm install --global expo-cli
+npm install --global expo-cli //   install expo cli 
 
-create ur project //expo init my-project<project name>
+expo init my-project<project name> // create ur project 
 
 connect ur mobile with laptop of PC thorgh data cable
 
-start project // npm start OR expo start
+npm start OR expo start  // start project
+
+expo install expo-image-picker // this is npm package for provides access to the system's UI for selecting images and videos from the phone's library or taking a photo with the camera.
