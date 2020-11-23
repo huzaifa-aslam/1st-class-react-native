@@ -9,3 +9,33 @@ connect ur mobile with laptop of PC thorgh data cable
 npm start OR expo start  // to start project
 
 expo install expo-image-picker // this is npm package for provides access to the system's UI for selecting images and videos from the phone's library or taking a photo with the camera.
+
+********Components for UI**********************
+flatlist
+scrollview
+<ImageBackground source={{url:"path"}}/>
+<ActivityIndicator size="large" color="#fff"/> // loader
+
+
+********splach screen**********************
+
+ in assets there is image named "splasj.png" make it animated 
+********native UI libraries**********************
+
+1- native base
+2- react native elements
+3- teaset
+4- material kit react native
+********react native icons**********************
+
+react native vector icons
+
+********react native chat**********************
+
+react native gifted chat
+
+********react-leaflet**********************
+
+
+react-leaflet  =??? 
+
