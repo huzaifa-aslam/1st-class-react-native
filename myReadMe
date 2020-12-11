@@ -1,4 +1,4 @@
-https://docs.expo.io/ // document link
+	https://docs.expo.io/ // document link
 
 npm install --global expo-cli //   install expo cli 
 
@@ -19,7 +19,7 @@ scrollview
 
 ********splach screen**********************
 
- in assets there is image named "splasj.png" make it animated 
+ in assets there is image named "splash.png" make it animated 
 ********native UI libraries**********************
 
 1- native base
@@ -39,3 +39,20 @@ react native gifted chat
 
 react-leaflet  =??? 
 
+********Navigation**********************
+
+React Native Navigation // documentation for Navigation
+
+1- npm install @react-navigation/native 
+
+2- expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view  // install dependencies for expo project
+
+3- npm install @react-navigation/stack  
+
+
+4- see Navigation  file in Config folder
+
+********React native asyncstorage**********************
+
+
+https://reactnative.dev/docs/asyncstorage
